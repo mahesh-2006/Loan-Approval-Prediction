@@ -73,8 +73,3 @@ The model can be deployed using:
 - Integrate deep learning models for improved accuracy.
 - Extend to multi-class predictions (e.g., low/medium/high loan risk).
 
-## 📚 References
-
-- [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Loan Prediction Dataset – Kaggle](https://www.kaggle.com/datasets)
-- Python for Data Science (AICTE LMS)
